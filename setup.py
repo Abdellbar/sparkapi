@@ -22,7 +22,7 @@ setup(name='sparkapi',
       author='Abdelbar Aglagane',
       author_email='abdellbar@gmail.com',
       license='Apache License 2.0',
-      packages=['sparapi'],
+      packages=['sparkapi'],
       install_requires=[
           'unirest',
           'json'
