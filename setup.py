@@ -25,7 +25,7 @@ setup(name='sparkapi',
       packages=['sparkapi'],
       install_requires=[
           'unirest',
-          'json'
+          'simplejson'
       ],
       include_package_data=True,
       zip_safe=False)
